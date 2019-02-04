@@ -1,2 +1,2 @@
 # x32dbg-dark
-A x32dbg dark color scheme
+A x32dbg/x64dbg dark color scheme
